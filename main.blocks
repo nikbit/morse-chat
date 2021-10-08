@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="-.C`+fCxnm)q!UxR.!^|" x="107" y="214"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="zI`{/iP-CnV]@X1jno8u"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_play_note" id="=!vso}*[#wVO%9hvBX!r"><value name="note"><shadow type="device_note" id="*?^jgu[/d7A9)tvr!tqe"><field name="note">440</field></shadow></value><value name="duration"><shadow type="device_beat" id="~.wk3Oim2:FKtXEb;Q73"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_clear_display" id="srTp#}$$a_`LxKFY4g^Y"/></next></block></next></block></statement></block><block type="device_button_event" id="mPi6U8@Aj}$V*[O4$Z[}" x="94" y="633"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="QRISWP:.`+JIb.z-ZfhR"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . # # # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_play_note" id="x,%UeH~05M;0k[{S88xd"><value name="note"><shadow type="device_note" id="5`5X)#~06pl-j-B3iQ?v"><field name="note">523</field></shadow></value><value name="duration"><shadow type="device_beat" id="`tDuRM?m/%X~4%0n0AI]"><field name="fraction">BeatFraction.Double</field></shadow></value><next><block type="device_clear_display" id="W9x$?K-9^LOH=yNGVc*("/></next></block></next></block></statement></block></xml>
